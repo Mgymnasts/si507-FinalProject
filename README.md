@@ -33,3 +33,6 @@ numpy
 
 This program asks the user to input an athlete's name. Then using a tree stucture, asks the user if they want the results of the 800. If they say yes it 
 shares those results for that athlete. If they say no, it continues down the tree and asks if they want the 1600, then 3200, then 4x800, and finally. 4x400.
+
+
+Note: webscrape_py was an early version uploaded just to show progress in this project. It is not final and should not be used as such.
